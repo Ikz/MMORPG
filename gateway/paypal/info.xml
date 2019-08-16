@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<gateway_name>PayPal</gateway_name>
+	<gate_version>0.01</gate_version>
+	<developer>Dave Macaulay</developer>
+	<support>http://oxyden.net/contact/</support>
+	<unique_hash></unique_hash>
+	<update_check>http://oxyden.net/update/paypal/version.txt</update_check>
+	<settings_file>settings.php</settings_file>
+	<log_data>log_purchase.php</log_data>
+	<ipn_file>verify.php</ipn_file>
+	<button_file>button.php</button_file>
+</settings>

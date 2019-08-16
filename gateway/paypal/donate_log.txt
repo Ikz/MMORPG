@@ -1,0 +1,334 @@
+IPN POST Vars from Paypal:
+txn_type=subscr_signup, subscr_id=I-WHFCDYYHWNX2, last_name=Macaulay, residence_country=GB, mc_currency=USD, item_name=Test Game Subscription [admin], business=furness.devon@googlemail.com, amount3=0.01, recurring=1, verify_sign=AasSy6x966wSw5fd02aSh7SlQWCtA-3rbGt-MK.LlebkBWPQg7j.yQmJ, payer_status=verified, payer_email=daavem@googlemail.com, first_name=David, receiver_email=furness.devon@googlemail.com, payer_id=V7TJCRCBJD3UG, reattempt=1, item_number=257726, subscr_date=09:26:42 Mar 16, 2011 PDT, charset=windows-1252, notify_version=3.1, period3=1 D, mc_amount3=0.01, 
+IPN Response from Paypal Server:
+ 
+
+IPN POST Vars from Paypal:
+transaction_subject=, payment_date=09:26:47 Mar 16, 2011 PDT, txn_type=subscr_payment, subscr_id=I-WHFCDYYHWNX2, last_name=Macaulay, residence_country=GB, item_name=Test Game Subscription [admin], payment_gross=0.01, mc_currency=USD, business=furness.devon@googlemail.com, payment_type=instant, protection_eligibility=Ineligible, verify_sign=AKdrYjPodJWUTrAScVEawIOqNVWLAog26eDX6.KA7IOYAQCylw8RlF0W, payer_status=verified, payer_email=daavem@googlemail.com, txn_id=2N893085WK262371G, receiver_email=furness.devon@googlemail.com, first_name=David, payer_id=V7TJCRCBJD3UG, receiver_id=VUJRWS4ZXX8SQ, item_number=257726, payment_status=Completed, payment_fee=0.01, mc_fee=0.01, mc_gross=0.01, charset=windows-1252, notify_version=3.1, 
+IPN Response from Paypal Server:
+ 
+
+<b>IPN POST Vars from Paypal:</b>
+transaction_subject=
+payment_date=09:35:10 Mar 16, 2011 PDT
+txn_type=subscr_payment
+subscr_id=I-W4F9PS6G8J2W
+last_name=Macaulay
+residence_country=GB
+item_name=Test Game Subscription [admin]
+payment_gross=0.01
+mc_currency=USD
+business=furness.devon@googlemail.com
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=Aae8A7TO.MAH1XAZnWX6lmz3c.dGAdgb3XXMf1HQYUY1sTnGDoIn7WaK
+payer_status=verified
+payer_email=daavem@googlemail.com
+txn_id=4WV77532VC882751U
+receiver_email=furness.devon@googlemail.com
+first_name=David
+payer_id=V7TJCRCBJD3UG
+receiver_id=VUJRWS4ZXX8SQ
+item_number=966373
+payment_status=Completed
+payment_fee=0.01
+mc_fee=0.01
+mc_gross=0.01
+charset=windows-1252
+notify_version=3.1
+
+
+<span style="color: darkred;">Warning! This is s subcription signup page, So the log is invalid but could be helpful if something isn't working.</span><br /><br /><b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_signup
+subscr_id=I-W4F9PS6G8J2W
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=At48P1HT9m-DtUEFSFZ-0ik5l1B3AroBUzOR3NdyxDyoagFu8oCz6KAt
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=966373
+subscr_date=09:35:07 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=1 D
+mc_amount3=0.01
+
+
+<b>IPN POST Vars from Paypal:</b>
+transaction_subject=
+payment_date=09:46:03 Mar 16, 2011 PDT
+txn_type=subscr_payment
+subscr_id=I-BEAKG704BXD4
+last_name=Macaulay
+residence_country=GB
+item_name=Test Game Subscription [admin]
+payment_gross=0.01
+mc_currency=USD
+business=furness.devon@googlemail.com
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=AgmWhWzZwFw3qZrNG5UpoBaETp4WAUdSN5nY05p8-UKlH9o7BrixWXGr
+payer_status=verified
+payer_email=daavem@googlemail.com
+txn_id=4NG374034M059834E
+receiver_email=furness.devon@googlemail.com
+first_name=David
+payer_id=V7TJCRCBJD3UG
+receiver_id=VUJRWS4ZXX8SQ
+item_number=879494
+payment_status=Completed
+payment_fee=0.01
+mc_fee=0.01
+mc_gross=0.01
+charset=windows-1252
+notify_version=3.1
+
+
+<span style="color: darkred;">Warning! This is s subcription signup page, So the log is invalid but could be helpful if something isn't working.</span><br /><br /><b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_signup
+subscr_id=I-BEAKG704BXD4
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=A9UkNSsOE5odqsyQ6PTd9kmdWtH3AilaB.isbDxrySlp2oQMHISDlHmi
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=879494
+subscr_date=09:46:01 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=1 D
+mc_amount3=0.01
+
+
+<b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_cancel
+subscr_id=I-BEAKG704BXD4
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=AQVEUKLovWdVgjNbA8htVJl84s7SA-Ge8rQX-RUU5TQfZijdjbPQPxJE
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=879494
+subscr_date=09:47:08 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=1 D
+mc_amount3=0.01
+
+
+<b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_cancel
+subscr_id=I-W4F9PS6G8J2W
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31A-0gijahvyqsAqTyL9Nd0JZc87TG
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=966373
+subscr_date=09:47:28 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=1 D
+mc_amount3=0.01
+
+
+<b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_cancel
+subscr_id=I-WHFCDYYHWNX2
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31ATMnxVll0tuVAw5mcb5TQmT.Xdpr
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=257726
+subscr_date=09:47:31 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=1 D
+mc_amount3=0.01
+
+
+<b>IPN POST Vars from Paypal:</b>
+mc_gross=0.01
+protection_eligibility=Eligible
+address_status=confirmed
+payer_id=V7TJCRCBJD3UG
+tax=0.00
+address_street=37 Ladysmith rd
+payment_date=10:54:22 Mar 16, 2011 PDT
+payment_status=Completed
+charset=windows-1252
+address_zip=BN2 4EH
+first_name=David
+mc_fee=0.01
+address_country_code=GB
+address_name=David Macaulay
+notify_version=3.1
+custom=
+payer_status=verified
+business=furness.devon@googlemail.com
+address_country=United Kingdom
+address_city=Brighton
+quantity=1
+verify_sign=AoHFC-9zjdPh36HLvoHhi5X3ybNkAPTx1ofy-YhtIPpo7SDXZIzWJ6BA
+payer_email=daavem@googlemail.com
+txn_id=0AB81563YX382843A
+payment_type=instant
+last_name=Macaulay
+address_state=East Sussex
+receiver_email=furness.devon@googlemail.com
+payment_fee=0.01
+receiver_id=VUJRWS4ZXX8SQ
+txn_type=web_accept
+item_name=Test Game Donation [admin]
+mc_currency=USD
+item_number=764189
+residence_country=GB
+handling_amount=0.00
+transaction_subject=Test Game Donation [admin]
+payment_gross=0.01
+shipping=0.00
+
+
+<b>IPN POST Vars from Paypal:</b>
+mc_gross=0.01
+protection_eligibility=Eligible
+address_status=confirmed
+payer_id=V7TJCRCBJD3UG
+tax=0.00
+address_street=37 Ladysmith rd
+payment_date=10:56:19 Mar 16, 2011 PDT
+payment_status=Completed
+charset=windows-1252
+address_zip=BN2 4EH
+first_name=David
+mc_fee=0.01
+address_country_code=GB
+address_name=David Macaulay
+notify_version=3.1
+custom=
+payer_status=verified
+business=furness.devon@googlemail.com
+address_country=United Kingdom
+address_city=Brighton
+quantity=1
+verify_sign=AhuBIpVw5R1q3w44sAkHdRvUZlW.A7t.G.Wx7oZcUFoRKyi-JH-C4lNo
+payer_email=daavem@googlemail.com
+txn_id=2BT699588D972743D
+payment_type=instant
+last_name=Macaulay
+address_state=East Sussex
+receiver_email=furness.devon@googlemail.com
+payment_fee=0.01
+receiver_id=VUJRWS4ZXX8SQ
+txn_type=web_accept
+item_name=Test Game Donation [admin]
+mc_currency=USD
+item_number=241434
+residence_country=GB
+handling_amount=0.00
+transaction_subject=Test Game Donation [admin]
+payment_gross=0.01
+shipping=0.00
+
+
+<b>IPN POST Vars from Paypal:</b>
+transaction_subject=
+payment_date=10:59:38 Mar 16, 2011 PDT
+txn_type=subscr_payment
+subscr_id=I-88PRDWL56FE8
+last_name=Macaulay
+residence_country=GB
+item_name=Test Game Subscription [admin]
+payment_gross=0.01
+mc_currency=USD
+business=furness.devon@googlemail.com
+payment_type=instant
+protection_eligibility=Ineligible
+verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AheIsVIGlSh1MsqLUJNkwnsTUKAp
+payer_status=verified
+payer_email=daavem@googlemail.com
+txn_id=6RY280303F958450F
+receiver_email=furness.devon@googlemail.com
+first_name=David
+payer_id=V7TJCRCBJD3UG
+receiver_id=VUJRWS4ZXX8SQ
+item_number=113310
+payment_status=Completed
+payment_fee=0.01
+mc_fee=0.01
+mc_gross=0.01
+charset=windows-1252
+notify_version=3.1
+
+
+<span style="color: darkred;">Warning! This is s subcription signup page, So the log is invalid but could be helpful if something isn't working.</span><br /><br /><b>IPN POST Vars from Paypal:</b>
+txn_type=subscr_signup
+subscr_id=I-88PRDWL56FE8
+last_name=Macaulay
+residence_country=GB
+mc_currency=USD
+item_name=Test Game Subscription [admin]
+business=furness.devon@googlemail.com
+amount3=0.01
+recurring=1
+verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAus6xgASJaA6mr3tu0PoAUfan3Us
+payer_status=verified
+payer_email=daavem@googlemail.com
+first_name=David
+receiver_email=furness.devon@googlemail.com
+payer_id=V7TJCRCBJD3UG
+reattempt=1
+item_number=113310
+subscr_date=10:59:35 Mar 16, 2011 PDT
+charset=windows-1252
+notify_version=3.1
+period3=30 D
+mc_amount3=0.01
+
+
